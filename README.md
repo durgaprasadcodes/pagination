@@ -12,7 +12,7 @@ Perfect for beginners to understand pagination algorithms without relying on ext
 
 ### 🌐 Live Demo
 
-👉 **https://durgaprasadcodes.github.io/pagination/**
+👉 [**LIVE DEMO**](https://durgaprasadcodes.github.io/pagination/)
 
 ---
 
@@ -215,83 +215,11 @@ slice(10,15)
 returns
 
 ```
-11
-12
-13
-14
-15
+11 12 13 14 15
 ```
 
 ---
 
-# 🎯 Slice Visualization
-
-```
-Tasks
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-
-Page 1
-
-slice(0,5)
-
-↓
-
-1
-2
-3
-4
-5
-
----------------------
-
-Page 2
-
-slice(5,10)
-
-↓
-
-6
-7
-8
-9
-10
-
----------------------
-
-Page 3
-
-slice(10,15)
-
-↓
-
-11
-12
-13
-14
-15
-```
-
----
 
 # 🧠 Smart Pagination Algorithm
 
@@ -348,15 +276,7 @@ getVisiblePages(totalPages,currentPage)
 Returns
 
 ```
-[
-1,
-"...",
-5,
-6,
-7,
-"...",
-20
-]
+[ 1, "...", 5, 6, 7, "...", 20 ]
 ```
 
 ---
@@ -424,9 +344,7 @@ for(let i=start;i<=end;i++)
 Add
 
 ```
-9
-10
-11
+9 10 11
 ```
 
 ---
@@ -538,25 +456,12 @@ That means whether there are **100 tasks** or **100,000 tasks**, only the curren
 
 ---
 
-# 🚀 Future Improvements
-
-- 🔍 Search
-- 📂 Filter
-- 🎯 Jump to page
-- 📱 Mobile optimized controls
-- 🌙 Dark mode
-- ⚡ URL Query Parameters
-- 🌐 Backend Pagination
-- 📦 API Integration
-- 🔄 Infinite Scrolling
-
----
 
 # 🛠 Tech Stack
 
 - React
 - JavaScript (ES6)
-- CSS3
+- CSS
 - Vite
 
 ---
@@ -604,7 +509,7 @@ It motivates future open-source projects.
 
 ### 🌐 Live Demo
 
-**https://durgaprasadcodes.github.io/pagination/**
+[**LIVE DEMO**](https://durgaprasadcodes.github.io/pagination/)
 
 **Happy Coding 🚀**
 
