@@ -8,13 +8,9 @@ A modern, responsive, and efficient pagination component built with **React** us
 
 Perfect for beginners to understand pagination algorithms without relying on external libraries.
 
-<br>
 
-### 🌐 Live Demo
+[**🌏 LIVE DEMO**](https://durgaprasadcodes.github.io/pagination/)
 
-👉 [**LIVE DEMO**](https://durgaprasadcodes.github.io/pagination/)
-
----
 
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
@@ -41,12 +37,15 @@ Perfect for beginners to understand pagination algorithms without relying on ext
 ---
 
 # 📸 Preview
+<div align="center">
+     
+<img width="503" height="421" alt="Image" src="https://github.com/user-attachments/assets/2bd42e0d-be95-4673-9959-f260cf1b46e2" />
 
-> Open the live project here
 
-### 🌍 Live Website
+[**🌏 LIVE DEMO**](https://durgaprasadcodes.github.io/pagination/)
 
-**https://durgaprasadcodes.github.io/pagination/**
+</div>
+
 
 ---
 
